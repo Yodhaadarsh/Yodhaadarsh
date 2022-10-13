@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adarsh
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate to TATA
+- 🌱 I’m currently learning Java.
+- 💞️ I’m looking to collaborate to TATA.
 - 📫 How to reach me By Facebook/Linkedn-@Yodhaadarsh
 
 <!---
