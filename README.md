@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Adarsh
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Programming.
-- 💞️ I’m looking to collaborate to TATA.
 - 📫 How to reach me By Facebook/Linkedn/Youtube-@Yodhaadarsh
 
 <!---
