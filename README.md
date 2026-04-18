@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Adarsh
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Programming.
-- 📫 How to reach me By Facebook/Linkedn/Youtube-@Yodhaadarsh
+- 📫 How to reach me By Facebook/Linkedin/Youtube-@Yodhaadarsh
 
 <!---
 Yodhaadarsh/Yodhaadarsh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
